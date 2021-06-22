@@ -18,3 +18,7 @@ Below of the general sentiment break down extracted from the graph.
 
 <img src="Co_mentionAnalysisPositive.JPG" width="600">
 <img src="Co_mentionAnalysisNegative.JPG" width="600">
+
+
+#Full-text search based analysis
+<img src="Co_mentionAnalysisNegative.JPG" width="600">

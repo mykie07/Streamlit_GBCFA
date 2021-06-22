@@ -21,4 +21,4 @@ Below of the general sentiment break down extracted from the graph.
 
 
 #Full-text search based analysis
-<img src="Co_mentionAnalysisNegative.JPG" width="600">
+<img src="FullTextresultsTable.JPG" width="600">
